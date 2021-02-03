@@ -1092,7 +1092,7 @@ str(LigaEspañola)
 #write.csv(LigaEspañola, "LigaEspañola.csv", row.names = FALSE)
 ```
 
-\#\#Sesión 3
+## Sesión 3
 
 Ahora graficaremos probabilidades (estimadas) marginales y conjuntas
 para el número de goles que anotan en un partido el equipo de casa o el
