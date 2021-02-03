@@ -1259,7 +1259,7 @@ ggplot(dfT, aes(x = Var1, y = Var2, fill = Freq)) +
 
 ## Sesión 4
 
-Ahora investigarás la dependencia o independencia del úmero de goles
+Ahora investigarás la dependencia o independencia del número de goles
 anotados por el equipo de casa y el número de goles anotados por el
 equipo visitante mediante un procedimiento denominado bootstrap, revisa
 bibliografía en internet para que tengas nociones de este desarrollo.
